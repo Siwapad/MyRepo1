@@ -1,3 +1,5 @@
-public class student(){
-  
+public class student{
+  public void student(){
+    
+  }
 }
